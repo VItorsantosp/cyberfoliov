@@ -62,7 +62,7 @@ const HeroSection = () => {
           >
             {/* Tag de imagem real */}
            <img 
-              src="/perfil.png" 
+              src="/perfil.jpeg" 
               alt="Foto de Perfil" 
               className="w-full h-full object-cover rounded-full"
 />
