@@ -21,7 +21,7 @@ const ProjectsSection = () => {
       description: "Hub de conhecimento para compartilhamento e leitura de PDFs de livros didáticos. Foco total em UX/UI, utilizando grids responsivos e modais dinâmicos para evitar sobrecarga cognitiva durante o estudo.",
       techStack: ["React", "JavaScript", "Tailwind CSS", "UX Engineering"],
       
-      image: "", 
+      image: "null", 
       
       linkRepo: "#",
       linkDemo: "#",
