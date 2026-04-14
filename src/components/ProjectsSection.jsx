@@ -24,7 +24,7 @@ const ProjectsSection = () => {
       image: "null", 
       
       linkRepo: "https://github.com/VItorsantosp/sharkstudy",
-      linkDemo: "https://studyshark.vercel.app/",
+      linkDemo: "https://sharkstudy.vercel.app/",
     }
   ];
 
