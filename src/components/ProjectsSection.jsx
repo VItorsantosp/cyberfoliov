@@ -9,10 +9,10 @@ const ProjectsSection = () => {
       description: "Plataforma interativa desenvolvida no estilo Instagram/Facebook, focada em conectar jogadores. Interface fluida construída como SPA, com alto foco em performance no carregamento de feeds e perfis complexos. [ EM CONSTRUÇÃO ]",
       techStack: ["React", "Tailwind CSS", "Framer Motion", "UI Design"],
       
-      image: "/a.png", 
+      image: "/subferiafind.png", 
       
-      linkRepo: "https://github.com/VItorsantosp/SUBFERIA-HUB", 
-      linkDemo: "#", 
+      linkRepo: "https://github.com/VItorsantosp/subferiafind.git", 
+      linkDemo: "https://subferiafind-beige.vercel.app/", 
     },
     {
       id: 2,
